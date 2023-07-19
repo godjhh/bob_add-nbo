@@ -1,5 +1,5 @@
-#include <netinet/in.h> // ntohl 함수를 사용하기 위한 헤더 파일
-#include <stdio.h>     // printf 함수를 사용하기 위한 헤더 파일
+#include <netinet/in.h> 
+#include <stdio.h>
 #include <stdlib.h>
 
 void usage(){
